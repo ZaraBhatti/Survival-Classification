@@ -9,9 +9,9 @@ This is the view that motivates this study in which the aim is to answer the fol
 <details><summary>DATASET</summary>
 <p>
   
-The dataset used within this study has been taken from the website of the Center For International Blood & Marrow Transplant Research and is openly available for public use [link](https://www.cibmtr.org/ReferenceCenter/PubList/PubDsDownload/Pages/default.aspx). 
+The dataset used within this study has been taken from the website of the Center For International Blood & Marrow Transplant Research and is openly available for public use ([link](https://www.cibmtr.org/ReferenceCenter/PubList/PubDsDownload/Pages/default.aspx)). 
 
-It was retrieved from a publication by Olin et al. (available [here](https://doi.org/10.1182/bloodadvances.2020001719)) and contains data on patients who have undergone a transplant with their survival times. The dataset contains 26 features, 329 samples and is balanced.
+It was retrieved from a publication by Olin et al. ([link](https://doi.org/10.1182/bloodadvances.2020001719)) and contains data on patients who have undergone a transplant with their survival times. The dataset contains 26 features, 329 samples and is balanced.
 
 </p>
 </details>
