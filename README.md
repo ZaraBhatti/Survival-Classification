@@ -4,7 +4,8 @@ The uncertainty of post-transplant survival is a great obstacle when it comes to
 
 This is the view that motivates this study in which the aim is to answer the following question: <b>‘Does using a set of geriatric assessment scores as a predictor for post-allogenic HCT survival in elderly leukaemia patients perform as well as existing prognostic factors?’</b>. The exact set of predictors to be compared were selected after Exploratory Data Analysis (please see the FEATURE SELECTION section below).
 
-*The complete code is contained within a single Jupyter Notebooks. Within the notebook there are comments alongside the code for guidance.*
+*The complete code is contained within a single Jupyter Notebooks (Full Code.ipynb). Within the notebook there are comments alongside the code for guidance.*
+
 
 <details><summary>DATASET</summary>
 <p>
