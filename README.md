@@ -22,7 +22,7 @@ It was retrieved from a publication by Olin et al. ([link](https://doi.org/10.11
   
 Through visualisation and survival analysis, a final set of clinical features and geriatric assessment features were selected (see below for definitions). Thus, the initial question can now become more specific: <b>‘Does using BOMC, IADL, MOS and TUG (geriatric assessment scores) as predictors for post-allogenic HCT survival in elderly leukaemia patients perform as well as Karnofsky score, age group, HCT-CI and graft source (existing prognostic factors)?’</b>.
   
-![alt text](https://github.com/ZaraBhatti/group/blob/main/features_table.jpg?raw=true)
+![alt text](https://github.com/ZaraBhatti/Survival-Classification/blob/main/features_table.jpg?raw=true)
 
 </p>
 </details>
